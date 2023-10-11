@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1> Deolyed app bt jenkins </h1>
+<h1> Script chnaged to SCM</h1>
 </body>
 </html>
